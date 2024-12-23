@@ -5,6 +5,6 @@
 
 <p align="left" "> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.html" alt="visualstudiocode" width="40" height="40"/> </a> </p>
 
-<p align="left" "> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" alt="idea" width="40" height="40"/> </a> </p>
+<p align="left" "> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/3d040f7f-9ee5-4eff-975f-4d7f89c71974.svg" alt="idea" width="40" height="40"/> </a> </p>
 
 
