@@ -8,14 +8,14 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![dart](https://skillicons.dev/icons?i=dart)
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 ![flutter](https://skillicons.dev/icons?i=flutter)
 ![arduino](https://skillicons.dev/icons?i=arduino)
 ![aws](https://skillicons.dev/icons?i=aws)
@@ -33,11 +33,11 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Elpu7&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Elpu7&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elpu7&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elpu7&theme=tokyonight" />
+</p>
 
 ---
 > Builds plugins, games and sometimes entire operating systems.
