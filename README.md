@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Elpu7&style=for-the-badge&color=blueviolet" />
   <img src="https://img.shields.io/badge/discord-elpu7-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/playing-Minecraft-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=158000&amp;label=downloads&amp;prefix=+%20&amp;query=downloads&amp;url=https://api.elpu7.dev/api/modrinth-downloads&amp;logo=modrinth&style=for-the-badge" />
 </p>
 
 ---
