@@ -1,4 +1,4 @@
-<div align="center">
+s<div align="center">
 
 # Elpu7 • Full-Stack Developer & Systems Architect
 
@@ -78,7 +78,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/website-elpu7.dev-00d4ff?style=for-the-badge&logo=globe)](https://elpu7.dev)
-![Discord](https://img.shields.io/badge/discord-elpu7-5865F2?style=for-the-badge&logo=discord)
+[![Discord](https://img.shields.io/badge/discord-elpu7-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/702818098935234660)
 [![Modrinth](https://img.shields.io/badge/modrinth-elpu7-158000?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/elpu7)
 
 </div>
