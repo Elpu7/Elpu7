@@ -1,4 +1,4 @@
-s<div align="center">
+<div align="center">
 
 # Elpu7 • Full-Stack Developer & Systems Architect
 
