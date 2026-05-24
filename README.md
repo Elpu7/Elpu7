@@ -17,12 +17,12 @@
 
 ## About
 
-- 🔧 Building with Java, C#, Flutter, React & TypeScript
-- 🎮 Unity game development
-- 🧩 Minecraft mods & plugins (Fabric / Forge / Paper / Velocity)
-- 🖥️ Network and server infrastructure
-- 🌐 [https://elpu7.dev](https://elpu7.dev)
-- 🧠 Low-level programming & OS experiments
+- Building with Java, C#, Flutter, React & TypeScript
+- Unity game development
+- Minecraft mods & plugins (Fabric / Sponge / Paper / Velocity)
+- Network and server infrastructure
+- [https://elpu7.dev](https://elpu7.dev)
+- Low-level programming & OS experiments
 
 ---
 
