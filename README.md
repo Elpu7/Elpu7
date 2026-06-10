@@ -17,20 +17,22 @@
 
 ## About
 
-- Building with Java, C#, Flutter, React & TypeScript
-- Unity game development
-- Minecraft mods & plugins (Fabric / Sponge / Paper / Velocity)
-- Network and server infrastructure
-- [https://elpu7.dev](https://elpu7.dev)
-- Low-level programming & OS experiments
+-  Building with Java, C#, Flutter, React & TypeScript
+-  Unity game development
+-  Minecraft mods & plugins (Fabric / Folia / Paper / Velocity)
+-  Network and server infrastructure
+-  Website: [https://elpu7.dev](https://elpu7.dev)
+-  Low-level programming & OS experiments
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 ### Languages
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=dart" />
@@ -43,29 +45,38 @@
 
 ### Frameworks & Tools
 
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![React](https://skillicons.dev/icons?i=react)
-![Prisma](https://skillicons.dev/icons?i=prisma)
-![Gradle](https://skillicons.dev/icons?i=gradle)
-![Unity](https://skillicons.dev/icons?i=unity)
-![Docker](https://skillicons.dev/icons?i=docker)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![Rider](https://skillicons.dev/icons?i=rider)
-![IDEA](https://skillicons.dev/icons?i=idea)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Arch](https://skillicons.dev/icons?i=arch)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Discord](https://skillicons.dev/icons?i=discord)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=gradle" />
+  <img src="https://skillicons.dev/icons?i=unity" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=rider" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=arch" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=discord" />
+</p>
+
+</div>
 
 ---
 
-## Stats
+## My Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elpu7&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elpu7&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Elpu7&theme=tokyonight" />
@@ -85,4 +96,4 @@
 
 ---
 
-> Developing Minecraft mods and plugins, as well as network and server infrastructure
+> I'm Developing Minecraft mods and plugins, as well as network and server infrastructure
