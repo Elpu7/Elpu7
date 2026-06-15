@@ -17,12 +17,12 @@
 
 ## About
 
--  Building with Java, C#, Flutter, React & TypeScript
--  Unity game development
--  Minecraft mods & plugins (Fabric / Folia / Paper / Velocity)
--  Network and server infrastructure
--  Website: [https://elpu7.dev](https://elpu7.dev)
--  Low-level programming & OS experiments
+- Building with Java, C#, Flutter, React & TypeScript
+- Unity game development
+- Minecraft mods & plugins using Fabric, Folia, Paper & Velocity
+- Network, proxy and server infrastructure
+- Website: [https://elpu7.dev](https://elpu7.dev)
+- Low-level programming & OS experiments
 
 ---
 
@@ -71,6 +71,38 @@
 
 ---
 
+## Minecraft Development
+
+I develop Minecraft mods, plugins, proxy tools and server-side systems.
+
+### Platforms
+
+- Fabric
+- Paper
+- Folia
+- Velocity
+
+### Focus Areas
+
+- Server utilities
+- Proxy infrastructure
+- Plugin management
+- Gameplay systems
+- Developer tools
+- Network and backend integrations
+
+---
+
+## Modrinth
+
+<div align="center">
+
+[![Elpu7](https://modfolio.creeperkatze.dev/modrinth/user/Elpu7)](https://modrinth.com/user/Elpu7)
+
+</div>
+
+---
+
 ## My Stats
 
 <div align="center">
@@ -96,4 +128,4 @@
 
 ---
 
-> I'm Developing Minecraft mods and plugins, as well as network and server infrastructure
+> I'm developing Minecraft mods and plugins, as well as network and server infrastructure.
