@@ -78,8 +78,9 @@ I develop Minecraft mods, plugins, proxy tools and server-side systems.
 ### Platforms
 
 - Fabric
-- Paper
 - Folia
+- Paper
+- Sponge
 - Velocity
 
 ### Focus Areas
