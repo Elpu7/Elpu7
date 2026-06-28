@@ -54,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=sqlite" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=androidstudio" />
   <img src="https://skillicons.dev/icons?i=rider" />
   <img src="https://skillicons.dev/icons?i=idea" />
